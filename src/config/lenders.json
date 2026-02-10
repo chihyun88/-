@@ -1,0 +1,28 @@
+{
+  "lenders": [
+    {
+      "name": "A저축은행",
+      "max_ltv": 85,
+      "min_credit_grade": 7,
+      "supported_purpose": ["생활안정", "사업자금"],
+      "rate_note": "중금리",
+      "priority": 2
+    },
+    {
+      "name": "B캐피탈",
+      "max_ltv": 75,
+      "min_credit_grade": 6,
+      "supported_purpose": ["생활안정"],
+      "rate_note": "중저금리",
+      "priority": 1
+    },
+    {
+      "name": "C은행",
+      "max_ltv": 65,
+      "min_credit_grade": 4,
+      "supported_purpose": ["생활안정", "대환"],
+      "rate_note": "저금리",
+      "priority": 0
+    }
+  ]
+}

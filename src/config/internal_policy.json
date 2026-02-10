@@ -1,0 +1,5 @@
+{
+  "max_ltv": 70,
+  "min_credit_grade": 6,
+  "restricted_usage": ["나대지", "위반건축물"]
+}
